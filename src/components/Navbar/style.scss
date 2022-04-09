@@ -1,0 +1,18 @@
+.navbar {
+  width: 100%;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  height: 70px;
+  position: fixed;
+  background: white;
+  z-index: 10;
+}
+
+.navbar_row{
+  width: 100%;
+}
+
+.search_container{
+  display:flex;
+  align-items:center;
+}
+
